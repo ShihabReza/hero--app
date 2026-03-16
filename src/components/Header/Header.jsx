@@ -36,7 +36,7 @@ const Header = () => {
         </div>
 
         <div className="navbar-end">
-          <a className="btn bg-blue-500 text-mist-50"><FaGithub className="mr-2 text-xl" />Contribute</a>
+          <a href='https://github.com/ShihabReza' className="btn bg-blue-500 text-mist-50"><FaGithub className="mr-2 text-xl" />Contribute</a>
         </div>
 
       </div>

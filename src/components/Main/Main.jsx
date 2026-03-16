@@ -12,15 +12,19 @@ const Main = () => {
        
       </div>
       <div className="flex justify-center gap-4 mt-6">
-            <button className="flex items-center gap-2 bg-blue-500 text-white px-4 py-2 ">
+           <a href="https://play.google.com/store">
+                 <button className="flex items-center gap-2 bg-blue-500 text-white px-4 py-2 ">
                 <FaGooglePlay className="text-2xl" />
                 Google Play
             </button>
+           </a>
 
-            <button className="flex items-center gap-2 bg-black text-white px-4 py-2 ">
+            <a href="https://www.apple.com/store">
+                <button className="flex items-center gap-2 bg-black text-white px-4 py-2 ">
             <FaApple className="text-2xl" />
             App Store
             </button>
+            </a>
             </div>
             <div className="mt-12 flex justify-center">
                 <img src="/assets/hero.png" alt="" className="w-full max-w-3xl object-contain " />

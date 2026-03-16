@@ -5,7 +5,7 @@ import App from './App.jsx'
 import { createBrowserRouter } from "react-router";
 import { RouterProvider } from "react-router/dom";
 import Root from './components/Root/Root.jsx';
-import Hone from './components/Home/Home.jsx';
+import Home from './components/Home/Home.jsx';
 import Apps from './components/Apps/Apps.jsx';
 const router = createBrowserRouter([
    {
@@ -14,13 +14,15 @@ const router = createBrowserRouter([
     children: [
       {
         index: true,
-        Component:Hone
+        loader: () => fetch('tranding.json'),
+        path:'/',
+        Component:Home
       },
       {
         path:'/apps',
         Component:Apps
       },
-      
+   
     ]
   }
 
