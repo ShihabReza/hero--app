@@ -1,0 +1,398 @@
+[
+  {
+    "id": 1,
+    "image": "https://www.pngkit.com/png/full/178-1781591_instagram-app-icon-png-download-icons8.png",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Photo & short video sharing social network.",
+    "size": 75,
+    "reviews": 25000000,
+    "ratingAvg": 4.7,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 3000000 },
+      { "name": "5 star", "count": 21000000 }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://cdn-icons-png.flaticon.com/512/1384/1384063.png",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "description": "Watch and share videos around the world.",
+    "size": 110,
+    "reviews": 40000000,
+    "ratingAvg": 4.6,
+    "downloads": 3000000000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 1200000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 31200000 }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://cdn-icons-png.flaticon.com/512/733/733609.png",
+    "title": "WhatsApp",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Instant messaging and voice calls.",
+    "size": 60,
+    "reviews": 32000000,
+    "ratingAvg": 4.8,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 2600000 },
+      { "name": "5 star", "count": 27800000 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://cdn-icons-png.flaticon.com/512/737/737245.png",
+    "title": "Spotify",
+    "companyName": "Spotify Ltd.",
+    "description": "Music streaming and podcasts.",
+    "size": 85,
+    "reviews": 18000000,
+    "ratingAvg": 4.7,
+    "downloads": 1500000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2200000 },
+      { "name": "5 star", "count": 14300000 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111463.png",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Connect with friends and family.",
+    "size": 95,
+    "reviews": 30000000,
+    "ratingAvg": 4.5,
+    "downloads": 2500000000,
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 4500000 },
+      { "name": "5 star", "count": 23000000 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://cdn-icons-png.flaticon.com/512/1040/1040212.png",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "description": "Short form videos & creative clips.",
+    "size": 70,
+    "reviews": 27000000,
+    "ratingAvg": 4.5,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 1600000 },
+      { "name": "4 star", "count": 4300000 },
+      { "name": "5 star", "count": 19700000 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://cdn-icons-png.flaticon.com/512/300/300221.png",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "description": "Navigation & live traffic guidance.",
+    "size": 120,
+    "reviews": 22000000,
+    "ratingAvg": 4.6,
+    "downloads": 2500000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 5200000 },
+      { "name": "5 star", "count": 14600000 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://cdn-icons-png.flaticon.com/512/889/889859.png",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "description": "Movies & TV shows streaming.",
+    "size": 130,
+    "reviews": 21000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 14000000 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://cdn-icons-png.flaticon.com/512/174/174857.png",
+    "title": "LinkedIn",
+    "companyName": "Microsoft Corp.",
+    "description": "Professional networking & jobs.",
+    "size": 85,
+    "reviews": 9000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 1800000 },
+      { "name": "5 star", "count": 6100000 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://cdn-icons-png.flaticon.com/512/888/888857.png",
+    "title": "Twitter",
+    "companyName": "Twitter, Inc.",
+    "description": "Social networking & microblogging platform.",
+    "size": 60,
+    "reviews": 25000000,
+    "ratingAvg": 4.4,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 4300000 },
+      { "name": "5 star", "count": 16200000 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://cdn-icons-png.flaticon.com/512/888/888879.png",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "description": "Photo & video messaging app.",
+    "size": 75,
+    "reviews": 18000000,
+    "ratingAvg": 4.3,
+    "downloads": 1500000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 2200000 },
+      { "name": "5 star", "count": 14300000 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://cdn-icons-png.flaticon.com/512/174/174876.png",
+    "title": "GitHub",
+    "companyName": "GitHub, Inc.",
+    "description": "Code hosting & collaboration platform.",
+    "size": 50,
+    "reviews": 1000000,
+    "ratingAvg": 4.8,
+    "downloads": 800000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "4 star", "count": 100000 },
+      { "name": "5 star", "count": 680000 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://cdn-icons-png.flaticon.com/512/888/888847.png",
+    "title": "Pinterest",
+    "companyName": "Pinterest, Inc.",
+    "description": "Discover & save creative ideas.",
+    "size": 65,
+    "reviews": 7000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 1300000 },
+      { "name": "5 star", "count": 4900000 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://cdn-icons-png.flaticon.com/512/888/888870.png",
+    "title": "Reddit",
+    "companyName": "Reddit, Inc.",
+    "description": "Social news aggregation & discussion.",
+    "size": 70,
+    "reviews": 12000000,
+    "ratingAvg": 4.4,
+    "downloads": 800000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 8600000 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://cdn-icons-png.flaticon.com/512/888/888841.png",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "description": "Secure messaging & chat app.",
+    "size": 60,
+    "reviews": 10000000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 8500000 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://cdn-icons-png.flaticon.com/512/888/888834.png",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications, Inc.",
+    "description": "Video conferencing & online meetings.",
+    "size": 90,
+    "reviews": 15000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 3500000 },
+      { "name": "5 star", "count": 10650000 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://cdn-icons-png.flaticon.com/512/888/888841.png",
+    "title": "Slack",
+    "companyName": "Slack Technologies",
+    "description": "Team communication & collaboration.",
+    "size": 80,
+    "reviews": 8000000,
+    "ratingAvg": 4.5,
+    "downloads": 700000000,
+    "ratings": [
+      { "name": "1 star", "count": 120000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 6180000 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://cdn-icons-png.flaticon.com/512/888/888857.png",
+    "title": "Messenger",
+    "companyName": "Meta Platforms, Inc.",
+    "description": "Instant messaging & calling app.",
+    "size": 60,
+    "reviews": 20000000,
+    "ratingAvg": 4.6,
+    "downloads": 1500000000,
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 11300000 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://cdn-icons-png.flaticon.com/512/888/888839.png",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "description": "Chat, voice, and video for communities.",
+    "size": 70,
+    "reviews": 12000000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 10600000 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://cdn-icons-png.flaticon.com/512/888/888848.png",
+    "title": "Trello",
+    "companyName": "Atlassian",
+    "description": "Project management & collaboration tool.",
+    "size": 65,
+    "reviews": 7000000,
+    "ratingAvg": 4.5,
+    "downloads": 400000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 5450000 }
+    ]
+  },
+  {
+    "id": 21,
+    "image": "https://cdn-icons-png.flaticon.com/512/888/888859.png",
+    "title": "Netflix",
+    "companyName": "Netflix, Inc.",
+    "description": "Movies & TV shows streaming.",
+    "size": 130,
+    "reviews": 21000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 14000000 }
+    ]
+  },
+ {
+    "id": 22,
+    "image": "https://cdn-icons-png.flaticon.com/512/888/888870.png",
+    "title": "Reddit",
+    "companyName": "Reddit, Inc.",
+    "description": "Social news aggregation & discussion.",
+    "size": 70,
+    "reviews": 12000000,
+    "ratingAvg": 4.4,
+    "downloads": 800000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 8600000 }
+    ]
+  }
+]

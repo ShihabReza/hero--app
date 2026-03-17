@@ -2,8 +2,8 @@ import React from 'react';
 import { FaDownload,FaStar } from "react-icons/fa";
 
 const Trand = (trand) => {
-    const{image,title,companyName,description,size,reviews,ratingAvg,downloads}=trand.trand
-    console.log(trand)
+    const{image,title,}=trand.trand
+    
     return (
         <div className="bg-white rounded-xl shadow-md overflow-hidden w-full max-w-sm hover:shadow-xl transition-shadow duration-300">
   <figure className='mt-5 '>
