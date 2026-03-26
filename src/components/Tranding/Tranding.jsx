@@ -3,12 +3,15 @@ import Trand from '../Trand/Trand';
 import { Link } from 'react-router';
 
 const Tranding = ({ trandingApp }) => {
-    const trand = trandingApp || []; 
+    const trand = trandingApp || [];
 
     return (
         <div>
-            <h1 className='text-5xl text-center mt-10 mb-2 font-bold'>Trending Apps</h1>
-            <p className=' text-center mt-2 mb-10'>
+            <h1 className='text-5xl text-center mt-10 mb-2 font-bold'>
+                Trending Apps
+            </h1>
+
+            <p className='text-center mt-2 mb-10'>
                 Explore All Trending Apps on the Market developed by us
             </p>
 
