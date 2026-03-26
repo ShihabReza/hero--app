@@ -7,6 +7,7 @@ import { RouterProvider } from "react-router/dom";
 import Root from './components/Root/Root.jsx';
 import Home from './components/Home/Home.jsx';
 import Apps from './components/Apps/Apps.jsx';
+import AppsDetls from './components/AppsDetals/AppsDetls.jsx';
 const router = createBrowserRouter([
    {
     path: "/",
@@ -23,6 +24,11 @@ const router = createBrowserRouter([
         loader: () => fetch('/public/app.json').then(res => res.json()),
         Component:Apps
       },
+      {
+        path:'/appsdetls/:id',
+        loader: () => fetch('/public/app.json'),
+        Component:AppsDetls
+      }
    
     ]
   }

@@ -10,7 +10,7 @@ const Apps = () => {
     return (
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 max-w-screen-2xl mx-auto px-4 mt-10">
             {
-                allApp.map(allApp=><App allApp={allApp}></App>)
+                allApp.map(allApp=><App key={allApp.id} allApp={allApp}></App>)
             }
         </div>
     );
